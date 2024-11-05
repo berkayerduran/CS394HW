@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CS394HW</string>
+    <string-array name="car_brand">
+        <item>Honda</item>
+        <item>BMW</item>
+        <item>Mercedes</item>
+        <item>Opel</item>
+        <item>Toyota</item>
+        <item>Renault</item>
+        <item>Tesla</item>
+        <item>Volvo</item>
+        <item>Hyundai</item>
+        <item>Lamborghini</item>
+        <item>Mercedes</item>
+        <item>Opel</item>
+        <item>Toyota</item>
+        <item>Renault</item>
+        <item>Tesla</item>
+        <item>Volvo</item>
+
+    </string-array>
+    <string-array name="featuresOfCars">
+        <item>2012,red,metallic,140hp</item>
+        <item>2015,blue,matte,120hp</item>
+        <item>2018,black,glossy,150hp</item>
+        <item>2020,white,matte,170hp</item>
+        <item>2016,gray,painted,130hp</item>
+        <item>2019,yellow,metallic,160hp</item>
+        <item>2021,silver,glossy,180hp</item>
+        <item>2013,green,painted,110hp</item>
+        <item>2017,orange,metallic,140hp</item>
+        <item>2023,orange,metallic,720hp</item>
+        <item>2018,black,glossy,150hp</item>
+        <item>2020,white,matte,170hp</item>
+        <item>2016,gray,painted,130hp</item>
+        <item>2019,yellow,metallic,160hp</item>
+        <item>2021,silver,glossy,180hp</item>
+        <item>2013,green,painted,110hp</item>
+    </string-array>
+
+</resources>
